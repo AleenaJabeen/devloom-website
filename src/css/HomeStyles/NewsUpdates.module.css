@@ -18,7 +18,7 @@
     font-weight: 600;
     white-space: nowrap;
     position: absolute;
-    top: 40%;
+    top: 30%;
     left: 0;
     text-align: center;
     clip-path: polygon(0 0, 100% 0 ,86% 91%,100% 100%, 0 100%,14% 91%);
@@ -127,25 +127,33 @@ text-decoration-style: solid;
         border: none;
     }
     .newsCard{
-        width: 60vw;
+        width: 100%;
         border: none;
         padding-right: 0;
     }
-    .newsCard h3{
-        font-size: 1rem;
+    
+  }
+  @media (max-width:768px){
+    .newsUpdatesWrapper{
+padding: 1rem 2.5rem;
+    }
+    .newsUpdatesWrapper h2{
+        font-size: 1.75rem;
+        line-height: 3rem;
+    }
+    .leftBanner {
+        padding: 0.5rem 1.3rem;
+        font-size: 14px; 
+      }
+      .newsCard h3{
+        font-size: 1.15rem;
 line-height: 1.5rem;
     }
     .newsCard p{
-        font-size: 1rem;
+        font-size: 1.15rem;
         line-height: 1.5rem;
     }
     .newsCard h4{
         font-size: .95rem;
     }
-  }
-  @media (max-width:768px){
-    .leftBanner {
-        padding: 0.5rem 1.3rem;
-        font-size: 14px; 
-      }
   }

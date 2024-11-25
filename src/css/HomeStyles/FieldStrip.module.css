@@ -2,7 +2,7 @@
     padding-top: 6rem;
     max-width: 100vw;
 overflow: hidden;
-min-height: 40vh;
+min-height: 50vh;
 position: relative;
 }
 .fieldYellow{
@@ -46,3 +46,18 @@ text-align: left;
     }
 
 }
+@media (max-width: 768px) {
+    .fieldStrip{
+        display:flex;
+        align-items: center;
+        padding: 1rem .25rem;
+    }
+    .fieldStrip img{
+        padding: 0.25rem ;
+    }
+    .fieldStrip p{
+        
+        font-size: .75rem;
+    }
+}
+
