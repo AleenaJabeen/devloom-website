@@ -36,7 +36,17 @@ import Facebook from './FooterAssets/Facebook.png';
 import LinkedIn from './FooterAssets/LinkedIn.png';
 import Instagram from './FooterAssets/Instagram.png';
 import Twitter from './FooterAssets/Twitter.png';
-export{logoipsum1,logoipsum2,logoipsum3,logoipsum4,logoipsum5,Service,TopRightArrow,RightArrow,RightArrowW,TopRightArrowW,Design1,Design2,Design3,DesignArrow,ProcessHStar,ProcessStar}
+// Signup Images
+import signup from './HomeAssets/signup.jfif';
+import inputArrow from './HomeAssets/inputArrow.png';
+// News images
+import news1 from './HomeAssets/news1.png';
+import news2 from './HomeAssets/news2.png';
+import news3 from './HomeAssets/news3.png';
 
+export {news1, news2, news3};
+export {signup,inputArrow};
+export{logoipsum1,logoipsum2,logoipsum3,logoipsum4,logoipsum5,Service,TopRightArrow,RightArrow,RightArrowW,TopRightArrowW,Design1,Design2,Design3,DesignArrow,ProcessHStar,ProcessStar};
 export{Facebook,LinkedIn,Instagram,Twitter}
 export {Star,arrow,mobileimg,mainImg,play,reimage,whiteStar,mobileApp1,mobileApp2,mobileApp3,viewArrow,client};
+

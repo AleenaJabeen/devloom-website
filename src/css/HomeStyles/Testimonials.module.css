@@ -21,7 +21,7 @@ padding-bottom: 2rem;
 }
 .testimonialsOne,.testimonialsTwo{
     scrollbar-width: none;
-    overflow-x: scroll;
+    overflow: scroll;
     display: flex;
     justify-content: space-between;
     align-items: center;

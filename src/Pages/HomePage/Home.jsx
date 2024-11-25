@@ -6,6 +6,8 @@ import Testimonials from './Testimonials';
 import About from './About';
 import DesignProcess from './DesignProcess';
 import Services from './Services';
+import SignUp from './SignUp';
+import NewsUpdates from './NewsUpdates';
 
 function Home() {
   return (
@@ -17,6 +19,8 @@ function Home() {
     <DesignProcess/>
     <LatestProjects/>
     <Testimonials/>
+    <SignUp/>
+    <NewsUpdates/>
       
     </>
   )

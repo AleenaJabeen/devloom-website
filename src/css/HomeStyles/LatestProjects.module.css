@@ -58,6 +58,7 @@ text-align: left;
 height: 7px;
     background-color: var(--primary-bg);
     border-radius: 1rem;
+    border: none;
 
 }
 .endingLines hr:first-child{
