@@ -48,7 +48,7 @@
   .tag {
     background-color: #FCCF12;
     color: #262F68;
-    padding: 0.65rem 2rem;
+    padding: 0.55rem 2rem;
     border-radius: 41px;
     text-transform: uppercase;
     position: absolute;
@@ -97,7 +97,7 @@
         padding: 1.5rem 0.5rem;
     }
     .portfolio h1{
-        font-size: 57px;
+        font-size: 48px;
     }
     .tag{
         font-size: 10px;

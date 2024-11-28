@@ -74,6 +74,7 @@
     line-height: 34px;
     font-family: "Archivo";
     transform: skewY(4deg);
+    color: #fff;
   }
   
   .processSteps {
@@ -119,6 +120,9 @@
     font-family: "Inter";
     display: flex;
     align-items: center;
+    color: #000000;
+   
+
   }
   .processStep h3>img{
     width: 80px;
