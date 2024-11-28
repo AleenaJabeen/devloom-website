@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "../../css/HomeStyles/Home.module.css";
+import styles from "../../css/HomeStyles/Services.module.css";
 import {
   Service,
   TopRightArrow,

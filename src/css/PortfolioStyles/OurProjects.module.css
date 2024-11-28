@@ -9,7 +9,7 @@
     line-height: 4.25rem;
     letter-spacing: -2px;
     text-align: left;
-
+color: #000000;
 }
 .ourProjectsSection h2{
     font-family: "Inter",sans-serif;
@@ -71,6 +71,7 @@ text-align: left;
 /* QAPROJECT1 STYLING */
 .qaProject{
     position: relative;
+  
 }
 .qaProject img{
     width: 57.5vw;
@@ -85,7 +86,6 @@ text-align: left;
     background-color: var(--accent);
     padding: 2rem;
     border-radius: 21px;
-    color: var(--white);
 }
 .qaprojectText h3{
     font-family: "Inter",sans-serif;
@@ -94,6 +94,8 @@ font-weight: 400;
 line-height: 1.65rem;
 letter-spacing: -0.20000000298023224px;
 text-align: left;
+color: var(--white);
+
 }
 .qaprojectText p{
     font-family: "Inter",sans-serif;
@@ -101,6 +103,8 @@ font-size: 1rem;
 font-weight: 400;
 line-height: 1.3rem;
 text-align: left;
+color: var(--white);
+
 }
 /* HD PROJECT STYLING */
 .hdProject{
@@ -127,7 +131,6 @@ text-align: left;
     background-color: var(--primary-bg);
     padding: 2rem;
     border-radius: 21px;
-    color: var(--white);
 }
 .hdprojectText h3{
     font-family: "Inter",sans-serif;
@@ -136,6 +139,8 @@ font-weight: 400;
 line-height: 1.65rem;
 letter-spacing: -0.20000000298023224px;
 text-align: left;
+color: var(--white);
+
 }
 .hdprojectText p{
     font-family: "Inter",sans-serif;
@@ -143,6 +148,8 @@ font-size: .85rem;
 font-weight: 400;
 line-height: 1.3rem;
 text-align: left;
+color: var(--white);
+
 }
 /* qaprojec2 */
 .chatProject,.qaProject2{

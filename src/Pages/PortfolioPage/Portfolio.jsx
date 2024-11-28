@@ -1,13 +1,22 @@
-import React from 'react';
+import React from 'react'
+import MainHeading from './MainHeading'
+import AppFeature from './AppFeature'
 import OurProjects from './OurProjects';
+import AgendaBuilder from './AgendaBuilder'
+import Features from './Features'
+import NewsletterSignup from './NewsletterSignup'
 
 function Portfolio() {
   return (
     <>
-    <OurProjects/>
-      
+      <MainHeading />
+      <AppFeature />
+      <OurProjects/>
+      <AgendaBuilder />
+      <Features />
+      <NewsletterSignup />
     </>
   )
 }
 
-export default Portfolio
+export default Portfolio;

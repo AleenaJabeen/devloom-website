@@ -53,8 +53,27 @@ import QAProject2 from './PortfolioAssets/QAProject2.jfif';
 import ChatProject from './PortfolioAssets/ChatProject.png';
 import HDProject from './PortfolioAssets/HDProject.jfif';
 import interactive from './PortfolioAssets/InteractiveProject.jfif';
+import AppFeatureImg from './PortfolioAssets/AppFeature.png'
+import AF1 from './PortfolioAssets/AF1.png'
+import AF2 from './PortfolioAssets/AF2.png'
+import AF3 from './PortfolioAssets/AF3.png'
+import AF4 from './PortfolioAssets/AF4.png'
+import AgendaBuilder1 from './PortfolioAssets/AgendaBuilder1.png'
+import AgendaBuilder2 from './PortfolioAssets/AgendaBuilder2.png'
+import Feature1 from './PortfolioAssets/Feature1.png'
+import Feature2 from './PortfolioAssets/Feature2.png'
+import Feature3 from './PortfolioAssets/Feature3.png'
+import Feature4 from './PortfolioAssets/Feature4.png'
+import Feature5 from './PortfolioAssets/Feature5.png'
+import Feature6 from './PortfolioAssets/Feature6.png'
+import Feature7 from './PortfolioAssets/Feature7.png'
+import Feature8 from './PortfolioAssets/Feature8.png'
+import Feature9 from './PortfolioAssets/Feature9.png'
+import RightArrowP from './PortfolioAssets/RightArrow.png'
 
-export {QAProject1,interactive, QAProject2, ChatProject, HDProject};
+// PORTFOLIO PAGE IMAGES
+export {QAProject1,interactive, QAProject2, ChatProject, HDProject,AF1,AF2,AF3,AF4,AppFeatureImg,AgendaBuilder1,AgendaBuilder2,Feature1,Feature2,Feature3,Feature4,Feature5,Feature6,Feature7,Feature8,Feature9,RightArrowP
+};
 
 
 // Home export statement
@@ -69,3 +88,4 @@ export {
 };
 
 // PORTFOLIO export
+
