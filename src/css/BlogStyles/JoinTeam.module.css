@@ -69,4 +69,7 @@ border-radius: 30px;
         font-size: 1.75rem;
         line-height: 2.25rem;
     }
+    .joinContent{
+        padding: 1.5rem;
+    }
 }
