@@ -71,6 +71,15 @@ import Feature8 from './PortfolioAssets/Feature8.png'
 import Feature9 from './PortfolioAssets/Feature9.png'
 import RightArrowP from './PortfolioAssets/RightArrow.png'
 
+// Blog images
+import RecentPost from './BlogAssets/RecentPost.png';
+import post1 from './BlogAssets/post1.png';
+import post2 from './BlogAssets/post2.png';
+import post3 from './BlogAssets/post3.png';
+import JoinImage from './BlogAssets/JoinImage.png';
+
+// Export blogs images 
+export {RecentPost,post1,post2,post3,JoinImage};
 // PORTFOLIO PAGE IMAGES
 export {QAProject1,interactive, QAProject2, ChatProject, HDProject,AF1,AF2,AF3,AF4,AppFeatureImg,AgendaBuilder1,AgendaBuilder2,Feature1,Feature2,Feature3,Feature4,Feature5,Feature6,Feature7,Feature8,Feature9,RightArrowP
 };

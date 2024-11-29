@@ -3,6 +3,7 @@ import Layout from "./Components/Layout";
 import Home from './Pages/HomePage/Home';
 import { Outlet } from "react-router-dom";
 import Portfolio from "./Pages/PortfolioPage/Portfolio";
+import Blogs from "./Pages/BlogPage/Blog";
 function App() {
   return (
     <>
@@ -15,6 +16,7 @@ export const router = createBrowserRouter(
     <Route path="/" element={<Layout/>}>
       <Route path="" element={<Home />}/>
       <Route path="portfolio" element={<Portfolio />}/>
+      <Route path="blog" element={<Blogs />}/>
     </Route>
   )
 )

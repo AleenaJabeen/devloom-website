@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "../../css/HomeStyles/About.module.css";
+import  styles from '../../css/HomeStyles/About.module.css';
 import {
   logoipsum1,
   logoipsum2,
@@ -17,7 +17,7 @@ const About = () => {
         </div>
         <div className={styles.content}>
           <h1>ABOUT US</h1>
-          <div className="content-text">
+          <div className={styles.contentText}>
             <p>
               DevLoom is a distinguished design and development agency based in
               the United Kingdom, known for our commitment to crafting
