@@ -77,9 +77,17 @@ import post1 from './BlogAssets/post1.png';
 import post2 from './BlogAssets/post2.png';
 import post3 from './BlogAssets/post3.png';
 import JoinImage from './BlogAssets/JoinImage.png';
+import BlogImg1 from './BlogAssets/BlogImg1.png'
+import BlogImg2 from './BlogAssets/BlogImg2.png'
+import BlogImg3 from './BlogAssets/BlogImg3.png'
+import BlogImg4 from './BlogAssets/BlogImg4.png'
+import BlogImg5 from './BlogAssets/BlogImg5.png'
+import BlogImg6 from './BlogAssets/BlogImg6.png'
+import BlogImg7 from './BlogAssets/BlogImg7.png'
+
 
 // Export blogs images 
-export {RecentPost,post1,post2,post3,JoinImage};
+export {BlogImg1,BlogImg2,BlogImg3,BlogImg4,BlogImg5,BlogImg6,BlogImg7,RecentPost,post1,post2,post3,JoinImage};
 // PORTFOLIO PAGE IMAGES
 export {QAProject1,interactive, QAProject2, ChatProject, HDProject,AF1,AF2,AF3,AF4,AppFeatureImg,AgendaBuilder1,AgendaBuilder2,Feature1,Feature2,Feature3,Feature4,Feature5,Feature6,Feature7,Feature8,Feature9,RightArrowP
 };

@@ -158,7 +158,7 @@ text-align: justify;
 color: #666666;
 }
 .readMore{
-    font-family: Roboto;
+    font-family: "Roboto",sans-serif;
 font-size: 1.15rem;
 font-weight: 700;
 line-height: 1.65rem;
@@ -195,10 +195,11 @@ font-size: 1.5rem;
 line-height: 2rem;
     }
     .viewAllBtn{
-        padding: 1rem 1.5rem;
+       
+        padding: 1rem 1rem;
     }
     .postsHeader h3{
-font-size: 2rem;
+font-size: 1.5rem;
 line-height: 2.5rem;
     }
     /* Posts and Post Card styling */
@@ -208,4 +209,6 @@ line-height: 2.5rem;
     .postCard{
         flex: 0 0  calc(100%);
     }
+    .readMoreBtn{
+         margin-top: 0;}
 }
