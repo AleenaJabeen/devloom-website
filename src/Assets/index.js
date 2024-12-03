@@ -85,7 +85,14 @@ import BlogImg5 from './BlogAssets/BlogImg5.png'
 import BlogImg6 from './BlogAssets/BlogImg6.png'
 import BlogImg7 from './BlogAssets/BlogImg7.png'
 
+// blogdeatil images
+import blogd1 from './BlogDetailAssets/blogd1.png';
+import blogd2 from './BlogDetailAssets/blogd2.png';
+import blogpost1 from './BlogDetailAssets/blogpost1.png';
+import blogpost2 from './BlogDetailAssets/blogpost2.png';
+import blogpost3 from './BlogDetailAssets/blogpost3.png';
 
+export {blogd1,blogd2,blogpost1,blogpost2,blogpost3};
 // Export blogs images 
 export {BlogImg1,BlogImg2,BlogImg3,BlogImg4,BlogImg5,BlogImg6,BlogImg7,RecentPost,post1,post2,post3,JoinImage};
 // PORTFOLIO PAGE IMAGES
