@@ -8,7 +8,7 @@ function Contact() {
   return (
     <>
     <ContactUs/>
-    <Services/>
+    {/* <Services/> */}
       <GetInTouch/>
       <InnovateStrip/>
     </>
