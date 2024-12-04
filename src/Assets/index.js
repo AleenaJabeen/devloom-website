@@ -92,6 +92,10 @@ import blogpost1 from './BlogDetailAssets/blogpost1.png';
 import blogpost2 from './BlogDetailAssets/blogpost2.png';
 import blogpost3 from './BlogDetailAssets/blogpost3.png';
 
+// ContactPage Images
+import innovateStar from './ContactAssets/Star6.png';
+
+export {innovateStar};
 export {blogd1,blogd2,blogpost1,blogpost2,blogpost3};
 // Export blogs images 
 export {BlogImg1,BlogImg2,BlogImg3,BlogImg4,BlogImg5,BlogImg6,BlogImg7,RecentPost,post1,post2,post3,JoinImage};
