@@ -1,11 +1,13 @@
 import React from 'react';
 import styles from '../../css/HomeStyles/LatestProjects.module.css';
+import { useNavigate } from 'react-router-dom';
 
 
 function ProjectCard(props) {
+  const navigate=useNavigate();
   return (
     <>
-      <div className={styles.projectCard}>
+      <div className={styles.projectCard} onClick={()=>navigate('/projectdetail')}>
 <div className={styles.projectImg}><div className={styles.projectNo}>
     {props.projectNo}
 </div><img src={props.image} alt="Mobile App" />

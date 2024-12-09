@@ -6,6 +6,7 @@ import Portfolio from "./Pages/PortfolioPage/Portfolio";
 import Blogs from "./Pages/BlogPage/Blog";
 import BlogDetail from "./Pages/BlogDetailPage/BlogDetail";
 import Contact from "./Pages/ContactPage/Contact";
+import ProjectDetail from './Pages/ProjectDetailPage/ProjectDetail';
 function App() {
   return (
     <>
@@ -21,6 +22,7 @@ export const router = createBrowserRouter(
       <Route path="blog" element={<Blogs />}/>
       <Route path="blogdetail" element={<BlogDetail/>} />
       <Route path="contact" element={<Contact/>} />
+      <Route path="projectdetail" element={<ProjectDetail />} />
     </Route>
   )
 )

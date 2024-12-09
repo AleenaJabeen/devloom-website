@@ -93,9 +93,23 @@ import blogpost2 from './BlogDetailAssets/blogpost2.png';
 import blogpost3 from './BlogDetailAssets/blogpost3.png';
 
 // ContactPage Images
+// Contact Images
+
+import mainContactImg from './ContactAssets/Frame 1.png'
+import achievementsIcon from './ContactAssets/Group 35907.png'
+import dollarIcon from './ContactAssets/Group 35908.png'
+import contactHImg1 from './ContactAssets/Rectangle 7.png'
+import contactHImg2 from './ContactAssets/Rectangle 8.png'
+import contactStar from './ContactAssets/Star 7.png'
 import innovateStar from './ContactAssets/Star6.png';
 
-export {innovateStar};
+import ProductDetailImg from './ProjectDetailAssets/ProductDetailImg.png'
+import statsScreen from './ProjectDetailAssets/stats-screen.png'
+import GroceryApp1 from './ProjectDetailAssets/GroceryApp1.png'
+import GroceryApp2 from './ProjectDetailAssets/GroceryApp2.png'
+
+export {innovateStar,mainContactImg,achievementsIcon,dollarIcon,contactHImg1,contactHImg2,contactStar};
+export {ProductDetailImg,statsScreen,GroceryApp1,GroceryApp2};
 export {blogd1,blogd2,blogpost1,blogpost2,blogpost3};
 // Export blogs images 
 export {BlogImg1,BlogImg2,BlogImg3,BlogImg4,BlogImg5,BlogImg6,BlogImg7,RecentPost,post1,post2,post3,JoinImage};
