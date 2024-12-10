@@ -24,7 +24,12 @@ function Navbar() {
         </div>
 
         {/* Navigation Links */}
-        <ul className={`${styles.navLinks} ${isMenuOpen ? styles.menuBar : ""}`} onClick={handleMenuToggle}>
+        <ul
+  className={`${styles.navLinks} ${
+    isMenuOpen && window.innerWidth <= 768 ? styles.menuBar : ""
+  }`}
+  onClick={handleMenuToggle}
+>
           <NavLink
             to="/"
             className={({ isActive }) =>
